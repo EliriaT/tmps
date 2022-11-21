@@ -1,8 +1,8 @@
 package People
 
 import (
-	"github.com/EliriaT/tmps/lab2/Clothes"
-	"github.com/EliriaT/tmps/lab2/HouseBuilder"
+	"TMPS/creational/Clothes"
+	"TMPS/creational/HouseBuilder"
 	"log"
 	"math/rand"
 )

@@ -1,8 +1,8 @@
 package Clothes
 
 import (
-	"github.com/EliriaT/tmps/lab2/AbstractClothFactory"
-	"github.com/EliriaT/tmps/lab2/ClothPrototypes"
+	"TMPS/creational/AbstractClothFactory"
+	"TMPS/creational/ClothPrototypes"
 	"log"
 )
 

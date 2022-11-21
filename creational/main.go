@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/EliriaT/tmps/lab2/Clothes"
-	"github.com/EliriaT/tmps/lab2/HouseBuilder"
-	"github.com/EliriaT/tmps/lab2/People"
+	"TMPS/creational/Clothes"
+	"TMPS/creational/HouseBuilder"
+	"TMPS/creational/People"
 	"log"
 	"math/rand"
 	"time"

@@ -1,7 +1,7 @@
 package AbstractClothFactory
 
 import (
-	"github.com/EliriaT/tmps/lab2/ClothPrototypes"
+	"TMPS/creational/ClothPrototypes"
 )
 
 type IPants interface {
